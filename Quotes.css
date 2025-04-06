@@ -1,0 +1,41 @@
+.bold {
+    font-weight: bold;
+}
+#h1direction {text-align: center; color:blueviolet; border-style: groove solid; border-top-left-radius: 10cap;border-bottom-right-radius:10cap; padding: auto; border-color: blueviolet; background-color: yellow;}
+.font {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.authorfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+    text-align: center;
+}
+.hidden-h1{
+    visibility: hidden; border-style: groove solid; border-top-left-radius: 10cap;border-bottom-right-radius:10cap; padding: auto; border-color: blueviolet; background-color: yellow;
+}
+#hidden-h1 {text-align: center; color:transparent; border-style: groove solid; border-top-right-radius: 10cap;border-bottom-left-radius:10cap; padding: auto; border-color: blueviolet; background-color: yellow;}
+.border-style1{
+    border-style: double;
+    border-radius: 10cap;
+}
+.border-style2 {
+    border-style: dotted; 
+}
+.fontcolor1 {
+    color: blueviolet;
+}
+.fontcolor2 {
+    color: palevioletred;
+}
+.background-color {
+    background-color: yellow;
+}
+.shape {
+    border: 1px solid black;
+    background-color: blueviolet;
+    height: 50px;
+    width: 2000px;
+}
+
+   
